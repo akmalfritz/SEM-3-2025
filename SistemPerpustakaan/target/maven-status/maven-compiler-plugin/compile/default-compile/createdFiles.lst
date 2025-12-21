@@ -1,0 +1,8 @@
+perpustakaan\service\Perpustakaan.class
+perpustakaan\model\ItemPerpustakaan.class
+perpustakaan\model\Buku.class
+perpustakaan\model\Peminjaman.class
+perpustakaan\model\Pinjamable.class
+perpustakaan\model\Anggota.class
+com\mycompany\sistemperpustakaan\SistemPerpustakaan.class
+perpustakaandigital\Main.class
